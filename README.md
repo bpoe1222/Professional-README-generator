@@ -23,6 +23,6 @@
   [bpoe1222](https://github.com/bpoe1222)
 
   ## License
-  ![badge](https://img.shields.io/badge/license-Community-brightgreen)
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
   <br>
-  This repo is covered by the Community license.
+  This repo is covered by the MIT license.
