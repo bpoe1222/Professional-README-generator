@@ -24,8 +24,8 @@ const questions = () => {
             type: 'input',
             name: 'github',
             message: 'What is your github username? (Required)',
-            validate: titleInput => {
-                if (titleInput) {
+            validate: githubInput => {
+                if (githubInput) {
                     return true;
                 } else {
                     console.log('Please enter your github username!');
@@ -42,8 +42,8 @@ const questions = () => {
             type: 'input',
             name: 'description',
             message: 'Enter a description of your project (Required)',
-            validate: titleInput => {
-                if (titleInput) {
+            validate: descriptionInput => {
+                if (descriptionInput) {
                     return true;
                 } else {
                     console.log('Please enter a description!');
@@ -53,15 +53,10 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'toc',
-            message: 'Please enter a table of contents (optional)',
-        },
-        {
-            type: 'input',
             name: 'installation',
             message: 'Provide instructions for installation (Required)',
-            validate: titleInput => {
-                if (titleInput) {
+            validate: installationInput => {
+                if (installationInput) {
                     return true;
                 } else {
                     console.log('Please provide installation instructions!');

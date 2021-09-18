@@ -3,18 +3,18 @@
   ## Made by 
   bpoe1222
 
-  ## Deployed Site
+  ## Deployed-Site
   Link to deployed site can be found [here](No link available)
 
   ## Description
   This project was made using Node.js and JavaScript, It is meant to be used in the creation of README files to allow for much easier and quicker creation.
 
   ## Table of Contents
-  - [Deployed Site] (#deployed site)
-  - [Description] (#description)
-  - [Installation] (#installation)
-  - [Credits] (#credits)
-  - [License] (#license)
+  - [Deployed-Site](#deployed-site)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Credits](#credits)
+  - [License](#license)
 
   ## Installation
   To install this project please git clone the repository.
