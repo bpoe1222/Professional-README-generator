@@ -19,8 +19,8 @@
   ## Installation
   To install this project please git clone the repository.
   
-  ##Instructional video on use of project
-  https://user-images.githubusercontent.com/84748948/133913941-44b06244-9312-450c-9aef-c3bfa149052b.mov
+  ## Instructional video on use of project
+  https://vimeo.com/608679962
 
   ## Credits
   [bpoe1222](https://github.com/bpoe1222)
