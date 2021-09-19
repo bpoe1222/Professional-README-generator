@@ -73,7 +73,8 @@ const questions = () => {
             type: 'checkbox',
             name: 'license',
             message: 'Enter license (optional)',
-            choices: ['Community', 'MIT', 'GNU']
+            choices: ['Community', 'MIT', 'GNU'],
+            default: 'Community'
         }
     ])
 };
